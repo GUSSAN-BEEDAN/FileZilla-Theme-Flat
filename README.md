@@ -1,5 +1,6 @@
 # Filezilla-Theme-flat /Filezilla用アイコンテーマ
 ![flat](https://user-images.githubusercontent.com/96756270/225528918-277cffb1-19f3-4126-be85-a9594a313dbc.jpg)
+![sample](https://user-images.githubusercontent.com/96756270/225795994-a96e6b7b-23fd-4a0f-9ef3-cdc4d1abe24d.jpg)
 
 Filezilla用アイコンテーマ「flat」です。defaultテーマをベースにフラット、シンプル、ミニマルをキーワードに制作しました。
 最小限のアイコンファイルのみしか作成していません。
