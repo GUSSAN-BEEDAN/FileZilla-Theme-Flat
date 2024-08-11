@@ -10,3 +10,9 @@ FileZilla用アイコンテーマ「flat」です。defaultテーマをベース
 * Codeボタンからダウンロードした圧縮ファイルを解凍後、生成されたフォルダ名 flat をアプリケーションパッケージ内のSharedSupport/resourcesフォルダ内にフォルダごと配置します。（すいません、widowsの場合はファイルパスが違うかもしれません。）
 * FileZillaを起動し、設定＞インターフェース＞テーマの「テーマ選択」画面から「Flat」テーマを選択します。
 * 尚、本アイコンテーマは、アプリケーションパッケージ内に直接配置するため、FileZillaのアップデート毎に同じ作業を繰り返す必要があります。「resources（/Applications/FileZilla.app/Contents/SharedSupport/resources/）」フォルダのエイリアスを作成して置くと作業が楽かと思います。
+
+
+## v.1.0.0リリース時の変更
+![fileZilla](https://github.com/user-attachments/assets/98b35413-99d6-439e-8616-241d7d0bf2b6)
+
+![fileZilla2](https://github.com/user-attachments/assets/ee3bfb05-51a4-41b5-af21-f8af7ec9e002)
